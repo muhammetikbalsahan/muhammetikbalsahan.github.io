@@ -1,7 +1,7 @@
 # Muhammet Ikbal ŞAHAN
 ![this is a pic](/profile_pic.jpg)
 
-I am a doctor in Psychology (PhD) and currently holding a postdoctoral researcher position in Cognitive Neuroscience at the department of Experimental Psychology, Ghent University fuŚded by the Flemish Research Council (FWO).
+I am a doctor in Psychology (PhD) and currently holding a postdoctoral researcher position in Cognitive Neuroscience at the department of Experimental Psychology, Ghent University funded by the Flemish Research Council (FWO).
 
 ## Research Interest
 Working memory (WM) and attention are two major conceptual pillars of human cognition, and how they relate to each other is a topic of intense interest at cognitive, neural, and theoretical levels of investigation. My research interests are in the mechanisms underlying **perceptual processing** and **working memory storage** of visual, spatial, and verbal information at the **behavioral**, **computational**, and **neural levels**. Moreover, I am interested in how abstract semantic knowledge and temporal information are processed and stored in working memory. I investigate these topics using **behavioral paradigms**, **eye-tracking**, and **fMRI**. 
@@ -16,7 +16,7 @@ Following up on my PhD, I continued working with Prof. **Wim Fias** to investiga
 ### Tracking the mind's eye: The role of visuospatial processes in verbal working memory rehearsal.
 Ongoing | Flemish Research Council (FWO) | Junior Post-doctoral Fellowshsip
 ### Selection mechanisms in working memory: A neurocognitive approach
-Concluded | Ghent University Special Research Fund (BOF) | PhD *Read more...*
+Concluded | Ghent University Special Research Fund (BOF) | PhD [*Read more...*](https://lib.ugent.be/en/catalog/pug01:8540677?i=0&q=sahan)
 
 
 ## Research
@@ -40,21 +40,16 @@ Concluded | Ghent University Special Research Fund (BOF) | PhD *Read more...*
 
 ### Research grants
 
+
 <style>
-table {
-    border-collapse: collapse;
-}
-table, th, td {
-   border: 1px solid black;
-}
-blockquote {
-    border-left: solid blue;
-    padding-left: 10px;
+td, th {
+   border: none!important;
 }
 </style>
 
-| Column One    | Column Two    |                                                                                                                                                   
-| ---           | ---           |                                                                                                                                                   
-| data cell one | data cell two | 
 
-
+| Time         | Length        | Speed              | Mass         |
+| ------------ | ------------- | ------------------ | ------------ |
+| -Millisecond | Millimetre    | Kilometre per hour | Milligram    |
+| Second       | Centimetre    | Foot per second    | Gram         |
+| Minute       | Inch          | Miles per hour     | Ounce        |
