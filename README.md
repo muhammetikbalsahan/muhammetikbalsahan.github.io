@@ -38,14 +38,56 @@ Concluded | Ghent University Special Research Fund (BOF) | PhD [*Read more...*](
 11.	Elsherif, M. M., **Sahan**, M. I., & Rotshtein, P. (2017). The perceptual saliency of fearful eyes and smiles: A signal detection study. PloS one, 12(3), e0173199. [https://doi.org/10.1371/journal.pone.0173199](https://doi.org/10.1371/journal.pone.0173199)
 12.	**Sahan**, M. I., Verguts, T., Boehler, C. N., Pourtois, G., & Fias, W. (2015). Paying attention to working memory: Similarities in the spatial distribution of attention in mental and physical space. *Psychonomic bulletin & review, 1-8.* [https://doi.org/10.3758/s13423-015-0990-5](https://doi.org/10.3758/s13423-015-0990-5)
 
-### Research grants
-#### 1. Post-doctoral Research Fellowship funded by the Flemish Research Council (€181.200,00) | 2020-2022
+### Research Grants
+1. **Post-doctoral Research Fellowship funded by the Flemish Research Council (€181.200,00)** | **2020-2022** |
 The funding is for three years supporting the research project titled: *“Tracking the mind's eye: The role of visuospatial processes in verbal working memory rehearsal” (FWO grant 1215621N)*
-#### 2. Grant for long research stay in Groningen, the Netherlands by the Flemish Research Foundation (€10.098,00). | 2022
+2. **Grant for long research stay in Groningen, the Netherlands by the Flemish Research Foundation (€10.098,00).** | **2022** |
 Visited the lab of prof. dr. Sebastiaan Mathôt for six months to investigate the role of visuospatial processes in verbal working memory using pupillometry *(FWO grant V403022N).*
-#### 3. FWO Grant for participation at a conference abroad (€1.000,00). | 2020
+3. **FWO Grant for participation at a conference abroad (€1.000,00).** | **2020** |
 Presented a talk title *“Looking through the mind's eye: eye-movements reveal the spatiotemporal evolution of attentional shifts in serial order WM”* at the European Workshop on Cognitive Neuropsychology in Bressanone, Italy. The talk was nominated for the Best Presentation. (FWO grant K104320N)
-#### 4. Grant for long research stay in Wisconsin-Madison, USA by the Flemish Research Foundation (€9.000,00).| 2017
+4. **Grant for long research stay in Wisconsin-Madison, USA by the Flemish Research Foundation (€9.000,00)**| **2017** |
 Visited the lab of prof. dr. Bradley Postle for six months to investigate the interplay between spatial attention and working memory using machine learning tools on fMRI data (FWO grant V431616N).
-#### 5. FWO Grant for participation at a workshop abroad (€1.000,00). | 2017
+5. **FWO Grant for participation at a workshop abroad (€1.000,00)** | **2017** |
 Presented a talk titled *“What are the neural consequences of attentional prioritization on internal memory representations?*  at the The crossroads of attention in working memory: Consolidation, Refreshing and Removal-conference in Valais, Switzerland. 
+
+### Scientific Awards
+1. **Best Poster Award at the “Searching for the WM engram” conference held in Groningen.** | **May 2022** | Award in recognition to the poster titled: *“Attention-based rehearsal: Patterns of eye movements reveal how visuospatial information is maintained in short-term memory.”*
+2. **Stad Gent artistic grant to create an artistic translation of our scientific work (€3.000,00).** | **September 2021** | Together with a group of artists: Laura Zuallaert, Alican Unal and Joline Vermeulen, I am preparing an art performance based on our recent eye-tracking work titled *“The anatomy of the gaze”.* Our partners are GUM (Ghent University Museum), dr. Guislain Museum and Stad Gent. 
+
+### Ongoing collaborations
+1.	Collaborator: prof. dr. Sebastiaan Mathôt, Department of Experimental Psychology, University of Groningen, the Netherlands. Tracking the mind's eye using pupillometry in order to reveal the role of visuospatial processes in verbal working memory.
+2.	Collaborator: prof. dr. Mehdi Senoussi, CLLE lab, Université de Toulouse, France. Attentional selection in visuospatial working memory: Does alpha suppression reflect distractor suppression or target enhancement? 
+3.	Collaborator: dr. Aytaç Karabay, New York University Abu Dhabi, Abu Dhabi. Serial dependence in visual working memory: attraction vs repulsion?
+
+
+### Invited Talks
+1. *Invited by prof dr. Wim Gevers (Université Libre de Bruxelles, BE) and prof. dr. Mehdi Senoussi (Université de Toulouse, FR)* to the symposium: Representing spatial and ordinal information in working memory at the Belgian Association of Psychological Sciences.  “The interplay between spatial processes and verbal working memory” (February 2021)
+2. *Invited by prof. dr. Kia Nobre* (Oxford Centre for Human Brain Activity, UK) at the University of Oxford, Oxford. |February 2019| “The Odyssey from the External Physical World to the Internal Mental World.” [https://sites.google.com/site/neuroxillations/about](https://sites.google.com/site/neuroxillations/about). (February 2019)
+
+### Conference contributions
+- **Sahan**, M.I., ,Fias, W., & Mathôt, S. (2022). Pupillometric measures reveal the semantic contents of attended words in verbal working memory. *European Society for Cognitive Psychology (ESCOP), Lille, France*. (poster)
+- **Sahan**, M.I., Mathôt, S., & Fias, W. (2022). Attention-based rehearsal: Patterns of eye movements reveal how visuospatial information is maintained in short-term memory. *Searching for WM engram. Groningen, the Netherlands*. (poster)
+- **Sahan**,M.I., & Fias, W. (2022). Attention-based rehearsing: eye-movements follow similar scan paths during visual perception and maintenance in visuospatial short-term memory. *NVP Brain And Cognition Winter Conference. Egmond aan Zee, the Netherlands*. (oral presentation).
+- **Sahan**,M.I., & Fias, W. (2022). Attention-based rehearsing: eye-movements follow similar scan paths during visual perception and maintenance in visuospatial short-term memory. *European Workshop on Cognitive Neuropsychology, Bressanone, Italy*. (oral presentation)
+- **Sahan**,M.I., & Fias, W. (2022). Similar patterns of eye-movements in visual perception and maintenance in visuospatial short-term memory. *Neurocog, Louvain-la-Neuve, Belgium*. (poster)
+- **Sahan**,M.I., van Dijck & Fias, W. (2021).The interplay between spatial processes and verbal working memory. *Belgian Association for Pscyhological Science. Online.* (oral presentation)
+- **Sahan**,M.I., & Fias, W. (2022). Attention-based rehearsing: eye-movements follow similar scan paths during visual perception and maintenance in visuospatial short-term memory. *European Workshop on Cognitive Neuropsychology. Bressanone, Italy*. (oral presentation)
+- **Sahan**,M.I., Li, K., Rasoulzadeh., V., Cristoforetti., G., van Dijck, J.P., & Fias, W. (2021). Looking through the mind's eye: eye-movements reveal the spatiotemporal evolution of attentional shifts in serial order WM. *European Workshop on Cognitive Neuropsychology. Online*. (Oral presentation)
+**Sahan**,M.I., Lyons, I., Ansari., D., & Fias, W. (2019). From counting to retrieving: The neural basis of learning alphabet-arithmetic problems. *European Workshop on Cognitive Neuropsychology. Online*. (oral presentation) 
+- **Sahan**,M.I., & Fias, W. (2019). Spatial Abstractions in Working Memory Independent from Spatial Displacements, Verbal Recoding and Sequential Encoding. *European Workshop of Cognitive Neuroscience, Bressanone, Italy.*  (oral presentation)
+- **Sahan**,M.I., Sheldon,. D., & Postle, B. (2017). What are the implications of attentional prioritization on multifeature objects in visual working memory? *European Society for Cognitive Psychology. Potsdam, Germany.* (poster)
+- **Sahan**,M.I., Sheldon,. D., & Postle, B. (2017). What are the neural consequences of attentional prioritization on internal memory representations? *The crossroads od attention in working memory. Valais, Switzerland* (oral presentation)
+- **Sahan**,M.I., Sheldon,. D., & Postle, B. (2017). Does the binding of a feature into a multidimensional object protect it from interference in visual working memory? *Cognitive Neuroscience Society, San Francisco, CA.* (poster)
+- **Sahan**, M.I., Verguts, T., Boehler.,N., Pourtois., G., & Fias, W. (2015). Paying attention to working memory: Similarities in the spatial distribution of attention in mental and physical space. *European Society for Cognitive Psychology. Paphos, Cyprus.* (poster)
+- **Sahan**, M.I., Verguts, T., Boehler.,N., Pourtois., G., & Fias, W. (2014). Distributing attention in mental and physical space. *EPOS graduate education network. Amsterdam, Netherlands.* (poster)
+- **Sahan**, M.I., Tibboel, H., & Fias, W. (2014). Working memory effects on temporal attention. *Belgian Association for Psychological Sciences. Leuven, Belgium.* (poster)
+
+
+## Teaching
+
+## Societal and Administrative Responsibilities
+
+## Competences
+
+
+
