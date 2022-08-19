@@ -51,8 +51,10 @@ Visited the lab of prof. dr. Bradley Postle for six months to investigate the in
 Presented a talk titled *“What are the neural consequences of attentional prioritization on internal memory representations?*  at the The crossroads of attention in working memory: Consolidation, Refreshing and Removal-conference in Valais, Switzerland. 
 
 ### Scientific Awards
-1. **Best Poster Award at the “Searching for the WM engram” conference held in Groningen.** | **May 2022** | Award in recognition to the poster titled: *“Attention-based rehearsal: Patterns of eye movements reveal how visuospatial information is maintained in short-term memory.”*
-2. **Stad Gent artistic grant to create an artistic translation of our scientific work (€3.000,00).** | **September 2021** | Together with a group of artists: Laura Zuallaert, Alican Unal and Joline Vermeulen, I am preparing an art performance based on our recent eye-tracking work titled *“The anatomy of the gaze”.* Our partners are GUM (Ghent University Museum), dr. Guislain Museum and Stad Gent. 
+1. **Best Poster Award at the “Searching for the WM engram” conference held in Groningen.** | **May 2022** | 
+Award in recognition to the poster titled: *“Attention-based rehearsal: Patterns of eye movements reveal how visuospatial information is maintained in short-term memory.”*
+2. **Stad Gent artistic grant to create an artistic translation of our scientific work (€3.000,00).** | **September 2021** |
+Together with a group of artists: Laura Zuallaert, Alican Unal and Joline Vermeulen, I am preparing an art performance based on our recent eye-tracking work titled *“The anatomy of the gaze”.* Our partners are GUM (Ghent University Museum), dr. Guislain Museum and Stad Gent. 
 
 ### Ongoing collaborations
 1.	Collaborator: prof. dr. Sebastiaan Mathôt, Department of Experimental Psychology, University of Groningen, the Netherlands. Tracking the mind's eye using pupillometry in order to reveal the role of visuospatial processes in verbal working memory.
