@@ -1,4 +1,5 @@
 # Sahan Muhammet Ikbal 
+![this is a pic](/profile_pic.jpg)
 
 I am a doctor in Psychology (PhD) and currently holding a postdoctoral researcher position in Cognitive Neuroscience at the department of Experimental Psychology, Ghent University funded by the Flemish Research Council (FWO).
 
