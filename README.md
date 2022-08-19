@@ -39,17 +39,13 @@ Concluded | Ghent University Special Research Fund (BOF) | PhD [*Read more...*](
 12.	**Sahan**, M. I., Verguts, T., Boehler, C. N., Pourtois, G., & Fias, W. (2015). Paying attention to working memory: Similarities in the spatial distribution of attention in mental and physical space. *Psychonomic bulletin & review, 1-8.* [https://doi.org/10.3758/s13423-015-0990-5](https://doi.org/10.3758/s13423-015-0990-5)
 
 ### Research grants
-##### Post-doctoral Research Fellowship funded by the Flemish Research Council (€181.200,00). 
-The funding is for three years supporting the research project titled: “Tracking the mind's eye: The role of visuospatial processes in verbal working memory rehearsal” (FWO grant 1215621N.)
-
-##### Grant for long research stay in Groningen, the Netherlands by the Flemish Research Foundation (€10.098,00).
-Visited the lab of prof. dr. Sebastiaan Mathôt for six months to investigate the role of visuospatial processes in verbal working memory using pupillometry (FWO grant V403022N).
-
-#### FWO Grant for participation at a conference abroad (€1.000,00). 
-Presented a talk title “Looking through the mind's eye: eye-movements reveal the spatiotemporal evolution of attentional shifts in serial order WM” at the European Workshop on Cognitive Neuropsychology in Bressanone, Italy. (FWO grant K104320N)
-
-#### Grant for long research stay in Wisconsin-Madison, USA by the Flemish Research Foundation (€9.000,00).
+#### 1. Post-doctoral Research Fellowship funded by the Flemish Research Council (€181.200,00) | 2020-2022
+The funding is for three years supporting the research project titled: *“Tracking the mind's eye: The role of visuospatial processes in verbal working memory rehearsal” (FWO grant 1215621N)*
+#### 2. Grant for long research stay in Groningen, the Netherlands by the Flemish Research Foundation (€10.098,00). | 2022
+Visited the lab of prof. dr. Sebastiaan Mathôt for six months to investigate the role of visuospatial processes in verbal working memory using pupillometry *(FWO grant V403022N).*
+#### 3. FWO Grant for participation at a conference abroad (€1.000,00). | 2020
+Presented a talk title *“Looking through the mind's eye: eye-movements reveal the spatiotemporal evolution of attentional shifts in serial order WM”* at the European Workshop on Cognitive Neuropsychology in Bressanone, Italy. The talk was nominated for the Best Presentation. (FWO grant K104320N)
+#### 4. Grant for long research stay in Wisconsin-Madison, USA by the Flemish Research Foundation (€9.000,00).| 2017
 Visited the lab of prof. dr. Bradley Postle for six months to investigate the interplay between spatial attention and working memory using machine learning tools on fMRI data (FWO grant V431616N).
-
-#### FWO Grant for participation at a workshop abroad (€1.000,00). 
-Presented a talk titled “What are the neural consequences of attentional prioritization on internal memory representations?  at the The crossroads of attention in working memory: Consolidation, Refreshing and Removal-conference in Valais, Switzerland.
+#### 5. FWO Grant for participation at a workshop abroad (€1.000,00). | 2017
+Presented a talk titled *“What are the neural consequences of attentional prioritization on internal memory representations?*  at the The crossroads of attention in working memory: Consolidation, Refreshing and Removal-conference in Valais, Switzerland. 
