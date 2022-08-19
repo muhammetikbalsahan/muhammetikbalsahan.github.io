@@ -89,5 +89,5 @@ Presented a talk titled *“What are the neural consequences of attentional prio
 
 ## Competences
 
-
+![this is a pic](/logos.jpg)
 
