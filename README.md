@@ -64,7 +64,8 @@ Together with a group of artists: Laura Zuallaert, Alican Unal and Joline Vermeu
 
 ### Invited Talks
 1. *Invited by prof dr. Wim Gevers (Université Libre de Bruxelles, BE) and prof. dr. Mehdi Senoussi (Université de Toulouse, FR)* to the symposium: Representing spatial and ordinal information in working memory at the Belgian Association of Psychological Sciences.  “The interplay between spatial processes and verbal working memory” (February 2021)
-2. *Invited by prof. dr. Kia Nobre* (Oxford Centre for Human Brain Activity, UK) at the University of Oxford, Oxford. |February 2019| “The Odyssey from the External Physical World to the Internal Mental World.” [https://sites.google.com/site/neuroxillations/about](https://sites.google.com/site/neuroxillations/about). (February 2019)
+2. *Invited by prof. dr. Kia Nobre* (Oxford Centre for Human Brain Activity, UK) at the University of Oxford, Oxford. |February 2019|
+“The Odyssey from the External Physical World to the Internal Mental World.” [https://sites.google.com/site/neuroxillations/about](https://sites.google.com/site/neuroxillations/about). (February 2019)
 
 ### Conference contributions
 - **Sahan**, M.I., ,Fias, W., & Mathôt, S. (2022). Pupillometric measures reveal the semantic contents of attended words in verbal working memory. *European Society for Cognitive Psychology (ESCOP), Lille, France*. (poster)
