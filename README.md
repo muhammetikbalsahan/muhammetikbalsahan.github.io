@@ -7,9 +7,9 @@ I am a doctor in Psychology (PhD) and currently holding a postdoctoral researche
 Working memory (WM) and attention are two major conceptual pillars of human cognition, and how they relate to each other is a topic of intense interest at cognitive, neural, and theoretical levels of investigation. My research interests are in the mechanisms underlying **perceptual processing** and **working memory storage** of visual, spatial, and verbal information at the **behavioral**, **computational**, and **neural levels**. Moreover, I am interested in how abstract semantic knowledge and temporal information are processed and stored in working memory. I investigate these topics using **behavioral paradigms**, **eye-tracking**, and **fMRI**. 
 
 ## Short Bio
-I completed my Ph.D. under the supervision of Prof. **Wim Fias** and **Prof. Tom Verguts** at the department of Experimental Pscyhology, Ghent Universtiy. During my PhD, I addressed the question how attention and working memory interact at the behavioral, neural and computational level. For the computational part, I got interested in modeling (e.g., mixture models) the distribution of attentional resources in WM for which I collaborated with the group of **Prof. Masud Husain** (University of Oxford). As for the neural part, I wanted to lay down the neural bases of attentional prioritisation in working memory using advanced machine learning techniques on fMRI data (e.g., MVPA, RSA, and IEM) for which I conducted a series of experiments as a visiting researcher in prof. **Bradley Postle**'s lab  (University of Wisconsin-Madison).
+I completed my Ph.D. under the supervision of Prof. **Wim Fias** and Prof. **Tom Verguts** at the department of Experimental Pscyhology, Ghent Universtiy. During my PhD, I addressed the question how attention and working memory interact at the behavioral, neural and computational level. For the computational part, I got interested in modeling (e.g., mixture models) the distribution of attentional resources in WM for which I collaborated with the group of Prof. **Masud Husain** (University of Oxford). As for the neural part, I wanted to lay down the neural bases of attentional prioritisation in working memory using advanced machine learning techniques on fMRI data (e.g., MVPA, RSA, and IEM) for which I conducted a series of experiments as a visiting researcher in prof. **Bradley Postle**'s lab  (University of Wisconsin-Madison).
 
-Following up on my PhD, I continued working with Prof. **Wim Fias** to investigate the role of spatial attention in more abstract domains of cognition like semantic knowledge and temporal information. My current research focuses on the involvement of the sensorimotor system, and in particular the oculomotor system for holding and processing temporal information. I have successfully obtained a post-doc research grant to address these questions. Within this framework, I am collaborating with prof. **Sebastiaan Mathôt** (University of Groningen) specifically to address the oculomotor involvement in working memory.
+Following up on my PhD, I continued working with Prof. **Wim Fias** to investigate the role of spatial attention in more abstract domains of cognition like semantic knowledge and temporal information. My current research focuses on the involvement of the sensorimotor system, and in particular the oculomotor system for holding and processing temporal information. I have successfully obtained a post-doc research grant to address these questions. Within this framework, I am collaborating with Prof. **Sebastiaan Mathôt** (University of Groningen) specifically to address the oculomotor involvement in working memory.
 
 
 ## Projects
@@ -52,7 +52,7 @@ Presented a talk titled *“What are the neural consequences of attentional prio
 
 ### Scientific Awards
 1. **Best Poster Award at the “Searching for the WM engram” conference held in Groningen.** | **May 2022** | 
-Award in recognition to the poster titled: *“Attention-based rehearsal: Patterns of eye movements reveal how visuospatial information is maintained in short-term memory.”*
+Award in recognition to the poster titled: *“Attention-based rehearsal: Patterns of eye movements reveal how visuospatial information is maintained in short-term memory.”* [Read more...](https://www.wmengram.com/)
 2. **Stad Gent artistic grant to create an artistic translation of our scientific work (€3.000,00).** | **September 2021** |
 Together with a group of artists: Laura Zuallaert, Alican Unal and Joline Vermeulen, I am preparing an art performance based on our recent eye-tracking work titled *“The anatomy of the gaze”.* Our partners are GUM (Ghent University Museum), dr. Guislain Museum and Stad Gent. 
 
@@ -87,10 +87,57 @@ Together with a group of artists: Laura Zuallaert, Alican Unal and Joline Vermeu
 
 
 ## Teaching
+### Teaching fellow
+- 2020-present,(9h/semester),Co-lecturer to the course Historical and Conceptual Issues in Psychology together with prof. Marc Brysbaert. This is a bachelor’s level general course taught in Dutch. The course is attended by a large audience of first year psychology students at the Faculty of Psychology and Educational sciences (N>600 students). The course covers the historical and conceptual developments behind the study of the human mind and brain. https://studiekiezer.ugent.be/studiefiche/en/H002116/2022 
+- 2017-present, (33h/semester)	Co-lecturer to the Cognitive Neurosciences course together with prof. Emilie Caspar. This is a specialized master’s level course for experimental psychology students with a background in neuropsychology. The course is taught in English and focuses on the current theoretical and empirical debates within the field of cognitive neurosciences covering a variety of topics (e.g., awareness, embodied language) and methods (e.g. fmri, tms, eeg). https://studiekiezer.ugent.be/studiefiche/en/H002001/2022
+- 2013-present (10h/semester)	Invited lecturer to the Paradigms of Experimental Psychology course organized by prof. Frederick Verbruggen.  This is a third year bachelor’s course and is taught in Dutch. The central theme of this course is to learn students how to develop research ideas and to write research proposals following experimental psychology theory and methodology. https://studiekiezer.ugent.be/studiefiche/en/H002036/2022 
+- 2013-present (10h/semester)	Invited lecturer to the Research Project Experimental Psychology course organized by prof. Tom Verguts. This is a master’s level course taught in English. Students are assisted and guided in the actual programming of experiments, collecting data, analyzing data and reporting the results in a paper.   https://studiekiezer.ugent.be/studiefiche/en/H002002/2022 
+
+### Academic mentoring
+- 2022 (4 months)	Supervision of a Master thesis: Conor Durkin MSc in Cognitive Psychology and Psychophysiology, University of Groningen (NL) Topic: The pupillary light response reveals the content of the attended item in verbal working memory
+- 2022 (4 months)	Supervision of a Master thesis: Myrthe Braam MSc in Applied Cognitive Neuroscience, University of Groningen (NL) Topic: The processing of semantic contents of verbal working memory information during rehearsal 
+- 2020-2022 (2 years)	Supervision of a Master thesis: Elisa Verhofstadt  MSc in Theoretical and Experimental Psychology, Ghent University (BE) Topic: Binding benefits in visual working memory: Investigating the role of spatial attention in feature integration 
+- 2019-2021 (2 years)	Supervision of a Master thesis: Ekaterina Lochoshvili  MSc in Theoretical and Experimental Psychology, Ghent University (BE) Topic: The involvement of semantic knowledge of non-verbal auditory stimuli in processing serial order.
+- 2019 (6 months)	Supervision of a Master student internship: Andrés Jimenez Perez  MSc in Psychology, University of Seville (ESP) Topic: Visual attention in working memory: A remote eye-tracking study using WebGazer.js 
+
+
+
+
 
 ## Societal and Administrative Responsibilities
+- 2020 - present	Member of the eye-tracking support group, Ghent University Training and support of new users, setting up of various documentation (tutorials, scripts, etc., https://sites.google.com/view/ugent-pp02-eps/home/expertise)
+- 2018 - present	Diversity and Inclusion Committee Member, Ghent University  Representing the scientific community (pre-/post-doc alpha sciences) on a statement to progress to a more diverse and inclusive academic environment. (https://www.ugent.be/nl/univgent/waarvoor-staat-ugent/diversiteit-en-inclusie/diversiteitsbeleid/organisatiestructuur/samenstelling-werkgroep-diversiteit-e-ninclusie)
+- 2019 - 2022	Coordinator at the Center for Cognitive Neuroscience (CCN), Ghent University Organizing interdisciplinary talks at the center for cognitive neuroscience in Ghent where invited speakers share their neuroscientific work (https://www.ugent.be/pp/ccn/en). 
+- 2018 - 2021	Junior Board Member Belgian Society for Neuroscience (BSN) Organizing large-scale interdisciplinary conferences across Belgium (Neuro, Meet & Match, https://bsn.ulb.be/upcoming-events). Holding small-scale publicly accessible pub meetings across Belgium to disseminate scientific knwoledge (Brains&Beers). 
+- 2016 - 2018	Member of the Board of Governors, Ghent University Elected as a representative of the scientific personnel at pre- and postdoc level (alpha sciences) where I tried to have an impact on the community of researchers in terms of mental health and wellbeing in academia (http://gp2r.ugent.be/vertegenwoordigers1718/ ).
+- 2015 - 2016	PhD Representative at the Department Board of Experimental Psychology, Ghent University Represented the pre-docs at the department board dealing with concerns related to testing rooms, equipment and equal distribution of task load.
+- Feb 2015	Children’s University: Hersenkronkels (‘braintwists’), Ghent University Gave a workshop to children (8-12 years) about the brain and fMRI at the department of experimental psychology. 
+- Summer 2013	Global Leadership Summit at the University of Free State, Bloemfontein South Africa  Ghent University selected six ambassadors representing Ghent University at the Global Leadership Summit in South Africa to discuss challenges in social justice, gender equity, minority rights and LGBT discrimination.
+- 2008 - 2012	Gender and Diversity Unit of Ghent University As a member of a Turkish minority community in Belgium, I volunteered in projects helping students with migration roots to overcome obstacles in higher education.
 
 ## Competences
+
+- Languages	- Dutch (native), Turkish (native), English (fluent), French (proficient)
+- Experiment Programming
+	- Matlab (PsychToolbox) 
+	- Python (PsychoPy, OpenSesame)
+	- E-Prime
+	- C (TScope5)
+	- fMRI (SPM, FSL)
+	- eye-tracking (in-lab: Eyelink, online: Webgazer.js)
+- Behavioral & eye-tracking data analysis	
+  - general linear model (R, lm) 
+  - multilevel & mixed models (R, lme4) 
+  - repeated measures (SPSS, JASP)
+  - timeseries analyses (GAMM, PCA)
+  - fMRI data analysis	- mass-univariate
+  - ROI analyses
+- parametric modulation
+- multivariate analyses (SVM, LDA, IEM, RSA) 
+- connectivity (informational/functional connectivity)
+Other skills	- GIMP, Pavlovia, WebGazer.js, Microsoft Office
+![image](https://user-images.githubusercontent.com/111513005/185861913-148fe5c9-da73-49cc-86a6-91f08c8e7bc4.png)
+
 
 ![this is a pic](/logos.jpg)
 
