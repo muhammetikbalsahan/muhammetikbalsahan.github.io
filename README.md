@@ -106,7 +106,7 @@ Recent Selection:
 	- MSc in Theoretical and Experimental Psychology, Ghent University (BE) 
 	- Topic: *Binding benefits in visual working memory: Investigating the role of spatial attention in feature integration* 
 - Supervision of a Master thesis: Ekaterina Lochoshvili (2019-2021, 2 years)
- 	- MSc in Theoretical and Experimental Psychology, Ghent University (BE) 
+	- MSc in Theoretical and Experimental Psychology, Ghent University (BE) 
 	- Topic: *The involvement of semantic knowledge of non-verbal auditory stimuli in processing serial order.* 
 - Supervision of a Master student internship: Andrés Jimenez Perez  (2019, 6 months) 
 	- MSc in Psychology, University of Seville (ESP) 
