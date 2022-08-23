@@ -53,7 +53,7 @@ Presented a talk titled *“What are the neural consequences of attentional prio
 ### Scientific Awards
 1. **Best Poster Award at the “Searching for the WM engram” conference held in Groningen.** | **May 2022** | 
 Award in recognition to the poster titled: *“Attention-based rehearsal: Patterns of eye movements reveal how visuospatial information is maintained in short-term memory.”* [Read more...](https://www.wmengram.com/)
-2. **Stad Gent artistic grant to create an artistic translation of our scientific work (€3.000,00).** | **September 2021** |
+2. **Stad Gent artistic grant to create an artistic translation of our scientific work (€4.000,00).** | **September 2021** |
 Together with a group of artists: Laura Zuallaert, Alican Unal and Joline Vermeulen, I am preparing an art performance based on our recent eye-tracking work titled *“The anatomy of the gaze”.* Our partners are GUM (Ghent University Museum), dr. Guislain Museum and Stad Gent. 
 
 ### Ongoing collaborations
