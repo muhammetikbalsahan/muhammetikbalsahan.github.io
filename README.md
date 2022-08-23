@@ -97,7 +97,7 @@ This is a bachelor’s level general course taught in Dutch. The course is atten
 ### Academic mentoring (*N*>20)
 Recent Selection: 
 - Supervision of a Master thesis: Conor Durkin (2022, 4 months)
- 	- MSc in Cognitive Psychology/Psychophysiology, University of Groningen (NL)
+	- MSc in Cognitive Psychology/Psychophysiology, University of Groningen (NL)
 	- Topic: *The pupillary light response reveals the content of the attended item in verbal working memory* 	
 - Supervision of a Master thesis: Myrthe Braam (2022, 4 months)
 	- MSc in Applied Cognitive Neuroscience, University of Groningen (NL) 
@@ -114,8 +114,8 @@ Recent Selection:
 
 
 ## Societal and Administrative Responsibilities
-- Member of the eye-tracking support group, Ghent University Training and support of new users, setting up of various documentation (tutorials, scripts, etc.,) (2020 - present) [Read more...] (https://sites.google.com/view/ugent-pp02-eps/home/expertise)
-- Diversity and Inclusion Committee Member, Ghent University  Representing the scientific community (pre-/post-doc alpha sciences) on a statement to progress to a more diverse and inclusive academic environment. (2018 - present) [Read more...] (https://www.ugent.be/nl/univgent/waarvoor-staat-ugent/diversiteit-en-inclusie/diversiteitsbeleid/organisatiestructuur/samenstelling-werkgroep-diversiteit-e-ninclusie)
+- Member of the eye-tracking support group, Ghent University Training and support of new users, setting up of various documentation (tutorials, scripts, etc.,) (2020 - present) [Read more...](https://sites.google.com/view/ugent-pp02-eps/home/expertise)
+- Diversity and Inclusion Committee Member, Ghent University  Representing the scientific community (pre-/post-doc alpha sciences) on a statement to progress to a more diverse and inclusive academic environment. (2018 - present) [Read more...](https://www.ugent.be/nl/univgent/waarvoor-staat-ugent/diversiteit-en-inclusie/diversiteitsbeleid/organisatiestructuur/samenstelling-werkgroep-diversiteit-e-ninclusie)
 - Coordinator at the Center for Cognitive Neuroscience (CCN), Ghent University Organizing interdisciplinary talks at the center for cognitive neuroscience in Ghent where invited speakers share their neuroscientific work. (2019 - 2022) [Read more...](https://www.ugent.be/pp/ccn/en). 
 - Junior Board Member Belgian Society for Neuroscience (BSN) Organizing large-scale interdisciplinary conferences across Belgium (Neuro, Meet & Match, [Read more...](https://bsn.ulb.be/upcoming-events). Holding small-scale publicly accessible pub meetings across Belgium to disseminate scientific knwoledge (Brains&Beers). (2018 - 2021)	
 - Member of the Board of Governors, Ghent University Elected as a representative of the scientific personnel at pre- and postdoc level (alpha sciences) where I tried to have an impact on the community of researchers in terms of mental health and wellbeing in academia. (2016 - 2018) [Read more...](http://gp2r.ugent.be/vertegenwoordigers1718/ ).
