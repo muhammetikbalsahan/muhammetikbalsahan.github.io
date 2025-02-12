@@ -45,8 +45,8 @@ Concluded | Ghent University Special Research Fund (BOF) | PhD [*Read more...*](
 14.	**Sahan**, M. I., Verguts, T., Boehler, C. N., Pourtois, G., & Fias, W. (2015). Paying attention to working memory: Similarities in the spatial distribution of attention in mental and physical space. *Psychonomic bulletin & review, 1-8.* [https://doi.org/10.3758/s13423-015-0990-5](https://doi.org/10.3758/s13423-015-0990-5)
 
 ### Research Grants
-1.  **NWO Open Competition XS grant SSH (€50.000)** |**2024-2025**| The funding is for a year supporting the project titled: *"Navigating Physical and Mental Space in the Digital Age" (NWO grant 14160102.002)*
-2.  **ESSB Faculty Funds (€40.000)** |**2025-2026**| The funding is for a year supporting the project titled: *"Navigating the Anxious Mind: an enquiry through VR and fMRI" (NWO grant 14160102.002)*
+1.  **NWO Open Competition XS grant SSH (€50.000)** | **2024-2025** | The funding is for a year supporting the project titled: *"Navigating Physical and Mental Space in the Digital Age" (NWO grant 14160102.002)*
+2.  **ESSB Faculty Funds (€40.000)** | **2025-2026** | The funding is for a year supporting the project titled: *"Navigating the Anxious Mind: an enquiry through VR and fMRI" (NWO grant 14160102.002)*
 3.  **Post-doctoral Research Fellowship funded by the Flemish Research Council (€181.200,00)** | **2020-2022** |
 The funding is for three years supporting the research project titled: *“Tracking the mind's eye: The role of visuospatial processes in verbal working memory rehearsal” (FWO grant 1215621N)*
 4. **Grant for long research stay in Groningen, the Netherlands by the Flemish Research Foundation (€10.098,00).** | **2022** |
