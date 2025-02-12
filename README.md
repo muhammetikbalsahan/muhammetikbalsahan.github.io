@@ -69,12 +69,16 @@ Together with a group of artists: Laura Zuallaert, Alican Unal and Joline Vermeu
 
 
 ### Invited Talks
-1. *Invited by prof dr. Wim Gevers (Université Libre de Bruxelles, BE) and prof. dr. Mehdi Senoussi (Université de Toulouse, FR)* to the symposium: Representing spatial and ordinal information in working memory at the Belgian Association of Psychological Sciences.  “The interplay between spatial processes and verbal working memory” (February 2021)
-2. *Invited by prof. dr. Kia Nobre* (Oxford Centre for Human Brain Activity, UK) at the University of Oxford, Oxford. |February 2019|
+1. *Invited by prof dr. Steve Majerus (Université de Liège, BE)* to the symposium: Recent developments in the field of memory and language research. "Navigating the geometric structure of working memory" 
+2. *Invited by prof dr. Wim Gevers (Université Libre de Bruxelles, BE) and prof. dr. Mehdi Senoussi (Université de Toulouse, FR)* to the symposium: Representing spatial and ordinal information in working memory at the Belgian Association of Psychological Sciences.  “The interplay between spatial processes and verbal working memory” (February 2021)
+3. *Invited by prof. dr. Kia Nobre* (Oxford Centre for Human Brain Activity, UK) at the University of Oxford, Oxford. |February 2019|
 “The Odyssey from the External Physical World to the Internal Mental World.” [https://sites.google.com/site/neuroxillations/about](https://sites.google.com/site/neuroxillations/about). (February 2019)
 
 ### Conference contributions
-- **Sahan**, M.I., ,Fias, W., & Mathôt, S. (2022). Pupillometric measures reveal the semantic contents of attended words in verbal working memory. *European Society for Cognitive Psychology (ESCOP), Lille, France*. (poster)
+- **Sahan**, M.I., Schroth, L,. & Fias, W. (2025). Eye movements follow dynamic shifts of attention through serial order in verbal working memory. *European Workshop on Cognitive Neuropsychology. Bressanone Italy*. (oral presentation)
+- Louter, W.,J., & **Sahan**, M.I. (2024). 
+- **Sahan**. (2024). Navigating the geometric structure of working memory *Belgian Association for Pscyhologists, Brussels, Belgium*. (oral presentation)
+- **Sahan**, M.I., ,Fias, W., & Mathôt, S. (2024). Do pupillary responses in verbal working memory prioritization extend to taboo words? *Dutch Pupillometry Meeting, Utrecht, Netherlands*. (poster)
 - **Sahan**, M.I., Mathôt, S., & Fias, W. (2022). Attention-based rehearsal: Patterns of eye movements reveal how visuospatial information is maintained in short-term memory. *Searching for WM engram. Groningen, the Netherlands*. (poster)
 - **Sahan**,M.I., & Fias, W. (2022). Attention-based rehearsing: eye-movements follow similar scan paths during visual perception and maintenance in visuospatial short-term memory. *NVP Brain And Cognition Winter Conference. Egmond aan Zee, the Netherlands*. (oral presentation).
 - **Sahan**,M.I., & Fias, W. (2022). Attention-based rehearsing: eye-movements follow similar scan paths during visual perception and maintenance in visuospatial short-term memory. *European Workshop on Cognitive Neuropsychology, Bressanone, Italy*. (oral presentation)
