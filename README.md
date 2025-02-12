@@ -46,7 +46,7 @@ Concluded | Ghent University Special Research Fund (BOF) | PhD [*Read more...*](
 
 ### Research Grants
 1.  **NWO Open Competition XS grant SSH (€50.000)**   | **2024-2025** |
-The funding is for a year supporting the project titled: *"Navigating Physical and Mental Space in the Digital Age" (NWO grant 14160102.002)*
+ The funding is for a year supporting the project titled: *"Navigating Physical and Mental Space in the Digital Age" (NWO grant 14160102.002)*
 3.  **ESSB Faculty Funds (€40.000)** | **2025-2026**  |
 The funding is for a year supporting the project titled: *"Navigating the Anxious Mind: an enquiry through VR and fMRI" (NWO grant 14160102.002)*
 4.  **Post-doctoral Research Fellowship funded by the Flemish Research Council (€181.200,00)** | **2020-2022** |
