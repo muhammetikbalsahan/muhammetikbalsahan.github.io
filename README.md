@@ -164,5 +164,5 @@ Recent Selection:
 
 
 
-![this is a pic](/logos.jpg)
+![this is a pic](/github_logos2.jpg)
 
