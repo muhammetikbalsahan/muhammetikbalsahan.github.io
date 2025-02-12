@@ -16,7 +16,8 @@ Currently I am studying how the brain, especially the hippocampus, supports navi
 ## Projects
 ### Navigating Physical and Mental Space in the Digital Age
 Ongoing | Dutch Research Council (NWO) | XS SSH Open Competition
-### Navigating the anxious mind: Development and test of a Virtual Reality Maze to investigate the neural basis of human memory and its relation to fear development
+### Navigating the anxious mind
+Development and test of a Virtual Reality Maze to investigate the neural basis of human memory and its relation to fear development
 Ongoing | Erasmus School of Social and Behavioral Sciences (ESSB) | Faculty Funds
 ### Tracking the mind's eye: The role of visuospatial processes in verbal working memory rehearsal.
 Cocnluded | Flemish Research Council (FWO) | Post-doctoral Fellowshsip
