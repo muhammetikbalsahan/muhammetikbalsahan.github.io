@@ -17,7 +17,7 @@ Currently I am studying how the brain, especially the hippocampus, supports navi
 ### Navigating Physical and Mental Space in the Digital Age
 Ongoing | Dutch Research Council (NWO) | XS SSH Open Competition
 ### Navigating the anxious mind
-Ongoing | Erasmus School of Social and Behavioral Sciences (ESSB) | Faculty Funds
+Ongoing | Erasmus School of Social and Behavioral Sciences (ESSB) | Faculty Funds |
 Development and test of a Virtual Reality Maze to investigate the neural basis of human memory and its relation to fear development
 ### Tracking the mind's eye: The role of visuospatial processes in verbal working memory rehearsal.
 Cocnluded | Flemish Research Council (FWO) | Post-doctoral Fellowshsip
@@ -46,15 +46,16 @@ Concluded | Ghent University Special Research Fund (BOF) | PhD [*Read more...*](
 
 ### Research Grants
 1.  **NWO Open Competition XS grant SSH (€50.000)** |**2024-2025**| The funding is for a year supporting the project titled: *"Navigating Physical and Mental Space in the Digital Age" (NWO grant 14160102.002)*
-2.  **Post-doctoral Research Fellowship funded by the Flemish Research Council (€181.200,00)** | **2020-2022** |
+2.  **ESSB Faculty Funds (€40.000)** |**2025-2026**| The funding is for a year supporting the project titled: *"Navigating the Anxious Mind: an enquiry through VR and fMRI" (NWO grant 14160102.002)*
+3.  **Post-doctoral Research Fellowship funded by the Flemish Research Council (€181.200,00)** | **2020-2022** |
 The funding is for three years supporting the research project titled: *“Tracking the mind's eye: The role of visuospatial processes in verbal working memory rehearsal” (FWO grant 1215621N)*
-3. **Grant for long research stay in Groningen, the Netherlands by the Flemish Research Foundation (€10.098,00).** | **2022** |
+4. **Grant for long research stay in Groningen, the Netherlands by the Flemish Research Foundation (€10.098,00).** | **2022** |
 Visited the lab of prof. dr. Sebastiaan Mathôt for six months to investigate the role of visuospatial processes in verbal working memory using pupillometry *(FWO grant V403022N).*
-4. **FWO Grant for participation at a conference abroad (€1.000,00).** | **2020** |
+5. **FWO Grant for participation at a conference abroad (€1.000,00).** | **2020** |
 Presented a talk title *“Looking through the mind's eye: eye-movements reveal the spatiotemporal evolution of attentional shifts in serial order WM”* at the European Workshop on Cognitive Neuropsychology in Bressanone, Italy. The talk was nominated for the Best Presentation. (FWO grant K104320N)
-5. **Grant for long research stay in Wisconsin-Madison, USA by the Flemish Research Foundation (€9.000,00)**| **2017** |
+6. **Grant for long research stay in Wisconsin-Madison, USA by the Flemish Research Foundation (€9.000,00)**| **2017** |
 Visited the lab of prof. dr. Bradley Postle for six months to investigate the interplay between spatial attention and working memory using machine learning tools on fMRI data (FWO grant V431616N).
-6. **FWO Grant for participation at a workshop abroad (€1.000,00)** | **2017** |
+7. **FWO Grant for participation at a workshop abroad (€1.000,00)** | **2017** |
 Presented a talk titled *“What are the neural consequences of attentional prioritization on internal memory representations?*  at the The crossroads of attention in working memory: Consolidation, Refreshing and Removal-conference in Valais, Switzerland. 
 
 ### Scientific Awards
