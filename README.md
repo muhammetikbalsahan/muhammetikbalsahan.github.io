@@ -26,11 +26,9 @@ Concluded | Ghent University Special Research Fund (BOF) | PhD [*Read more...*](
 
 
 ## Research
-### In preparation
-1.	**Sahan**, M. I., Mathôt, S., & Fias, W. (in prep). Attention-based rehearsal: Patterns of eye movements reveal how visuospatial information is maintained in short-term memory.
-2.	**Sahan**, M. I., Fias, W., & Mathôt, S. (in prep). Pupillometric measures reveal the semantic contents of attended words in verbal working memory.
-
 ### Peer-reviewed articles
+Schroth, L. S. M., Fias, W., & **Sahan**, M. I. (2025). Eye movements follow the dynamic shifts of attention through serial order in verbal working memory. Scientific Reports, 15(1), 1832. [https://doi.org/10.1038/s41598-024-85015-6](https://doi.org/10.1038/s41598-024-85015-6)
+**Sahan**, M. I., Siugzdaite, R., Mathôt, S., & Fias, W. (2024). Attention-based rehearsal: Eye movements reveal how visuospatial information is maintained in working memory. Journal of Experimental Psychology: Learning, Memory, and Cognition, 50(5), 687. [https://dx.doi.org/10.1037/xlm0001291](https://dx.doi.org/10.1037/xlm0001291)
 1.	Cristoforetti, G., Majerus, S., **Sahan**, M. I., van Dijck, J. P., & Fias, W. (2022). Neural Patterns in Parietal Cortex and Hippocampus Distinguish Retrieval of Start versus End Positions in Working Memory. *Journal of Cognitive Neuroscience, 34(7), 1230-1245.* [https://doi.org/10.1162/jocn_a_01860](https://doi.org/10.1162/jocn_a_01860)
 2.	Declercq, M., Bellon, E., **Sahan**, M. I., Fias, W., & De Smedt, B. (2022). Arithmetic learning in children: An fMRI training study. *Neuropsychologia, 169, 108183.* [https://doi.org/10.1016/j.neuropsychologia.2022.108183](https://doi.org/10.1016/j.neuropsychologia.2022.108183)
 3.	**Sahan**, M. I., van Dijck, J. P., & Fias, W. (2022). Eye-movements reveal the serial position of the attended item in verbal working memory. *Psychonomic Bulletin & Review, 29(2), 530-540.* [https://doi.org/10.3758/s13423-021-02005-9](https://doi.org/10.3758/s13423-021-02005-9 ) 
