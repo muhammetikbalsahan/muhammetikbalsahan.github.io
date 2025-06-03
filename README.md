@@ -8,6 +8,10 @@ I am an Assistant Professor in Brain & Cognition at the Erasmus School of Social
 
 - [About Me](#about-me)
 - [Projects](#projects)
+- [Research](#research)
+- [Teaching](#teaching)
+- [Leadership](#leadership)
+- [Competences](#competences)
 - [Contact](#contact)
 
 ---
