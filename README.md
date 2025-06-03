@@ -29,6 +29,8 @@ Here are some of my favorite projects...
 ## 📬 Contact
 You can reach me via...
 
+
+
 ## Research Interest
 **Working memory (WM)** and **attention** are two major conceptual pillars of human cognition, and how they relate to each other is a topic of intense interest at cognitive, neural, and theoretical levels of investigation. My research interests are in the mechanisms underlying **perceptual processing and working memory storage of visual, spatial, and verbal information** at the **behavioral**, **computational**, and **neural levels**. Moreover, I am interested in how **abstract semantic knowledge** and **temporal information** are processed and stored in working memory. Currently, I am emploring how hippocampal mechanisms of **spatial navigation** are employed in memory search. I investigate these topics using **behavioral paradigms**, **eye-tracking**, **VR**, **EEG** and **fMRI**. 
 
@@ -38,6 +40,8 @@ I completed my Ph.D. under the supervision of Prof. **Wim Fias** and Prof. **Tom
 Following up on my PhD, I continued working with Prof. **Wim Fias** to investigate the role of spatial attention in more abstract domains of cognition like semantic knowledge and temporal information. My current research focuses on the involvement of the sensorimotor system, and in particular the oculomotor system for holding and processing temporal information. I have successfully obtained a post-doc research grant to address these questions (FWO post-doctoral fellowship). Within this framework, I have collaborated with Prof. **Sebastiaan Mathôt** (University of Groningen) specifically to address the oculomotor involvement in working memory.
 
 Currently I am studying how the brain, especially the hippocampus, supports navigation in physical and mental space using VR-based navigation. I explore how digital tools like GPS impact spatial skills—do they weaken the hippocampus or promote adaptation via other brain regions? Children and older adults offer key insights into plasticity and decline.
+
+---
 
 ## Projects
 ### Navigating Physical and Mental Space in the Digital Age
@@ -50,6 +54,7 @@ Cocnluded | Flemish Research Council (FWO) | Post-doctoral Fellowshsip
 ### Selection mechanisms in working memory: A neurocognitive approach
 Concluded | Ghent University Special Research Fund (BOF) | PhD [*Read more...*](https://lib.ugent.be/en/catalog/pug01:8540677?i=0&q=sahan)
 
+---
 
 ## Research
 ### Peer-reviewed articles
@@ -126,6 +131,8 @@ Together with a group of artists: Laura Zuallaert, Alican Unal and Joline Vermeu
 - **Sahan**, M.I., Tibboel, H., & Fias, W. (2014). Working memory effects on temporal attention. *Belgian Association for Psychological Sciences. Leuven, Belgium.* (poster)
 
 
+---
+
 ## Teaching
 ### Teaching fellow 
 - Lecturer to the course ***Brain and Perception***
@@ -157,6 +164,7 @@ Recent Selection:
 	- MSc in Psychology, University of Seville (ESP) 
 	- Topic: *Visual attention in working memory: A remote eye-tracking study using WebGazer.js* 
 
+---
 
 ## Leadership in Academia and Societal/Administrative Responsibilities
 - Program coordinator of the Master Brain & Cognition, Department of Education, Psychology and Child Studies, Erasmus University Rotterdam.  Coordinating and organizing interdisciplinary education at the intersection of neuroscience, psychology, and cognitive science (2023 - present) [Read more...](https://www.eur.nl/en/master/brain-and-cognition/why-this-programme)
@@ -170,6 +178,8 @@ Recent Selection:
 - Children’s University: Hersenkronkels (‘braintwists’), Ghent University. Gave a workshop to children (8-12 years) about the brain and fMRI at the department of experimental psychology. (Feb 2015)
 - Global Leadership Summit at the University of Free State, Bloemfontein South Africa  Ghent University selected six ambassadors representing Ghent University at the Global Leadership Summit in South Africa to discuss challenges in social justice, gender equity, minority rights and LGBT discrimination. (Summer 2013)
 - Gender and Diversity Unit of Ghent University As a member of a Turkish minority community in Belgium, I volunteered in projects helping students with migration roots to overcome obstacles in higher education. (2008 - 2012)
+
+---
 
 ## Competences
 - Language: Dutch (native), Turkish (native), English (fluent), French (proficient)
