@@ -132,7 +132,7 @@ Recent Selection:
 	- Topic: *Visual attention in working memory: A remote eye-tracking study using WebGazer.js* 
 
 
-## Societal and Administrative Responsibilities
+## Leadership in Academia and Societal/Administrative Responsibilities
 - Program coordinator of the Master Brain & Cognition, Department of Education, Psychology and Child Studies, Erasmus University Rotterdam.  Coordinating and organizing interdisciplinary education at the intersection of neuroscience, psychology, and cognitive science (2023 - present) [Read more...](https://www.eur.nl/en/master/brain-and-cognition/why-this-programme)
 - Member of Erasmus Brain Imaging Center Committee.  Representative for fMRI users at Erasmus School of Behavior and Social Science (2025 - present) [Read more...](https://www.eur.nl/en/news/fmri-research-erasmus-university))
 - Member of the eye-tracking support group, Ghent University Training and support of new users, setting up of various documentation (tutorials, scripts, etc.,) (2020 - present) [Read more...](https://sites.google.com/view/ugent-pp02-eps/home/expertise)
@@ -147,6 +147,8 @@ Recent Selection:
 
 ## Competences
 - Language: Dutch (native), Turkish (native), English (fluent), French (proficient)
+- University Teaching Qualification (UTQ/BKO since 2023)
+- Leadership in Acadamia (since 2024)
 - Experiment Programming
 	- Matlab (PsychToolbox) 
 	- Python (PsychoPy, OpenSesame)
@@ -160,7 +162,8 @@ Recent Selection:
   - multilevel & mixed models (R, lme4) 
   - repeated measures (SPSS, JASP)
   - timeseries analyses (GAMM, PCA)
-- fMRI data analysis	- mass-univariate
+- fMRI data analysis
+  - mass-univariate
   - ROI analyses
   - parametric modulation
   - multivariate analyses (SVM, LDA, IEM, RSA, IEM) 
