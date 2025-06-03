@@ -3,10 +3,12 @@
 
 I am an Assistant Professor in Brain & Cognition at the Erasmus School of Social and Behavioral Sciences, Rotterdam University, Netherlands. My research is funded by the Dutch Research Council (NWO).
 
-## Research Interest
+## Research Interests
 **Working memory (WM)** and **attention** are two major conceptual pillars of human cognition, and how they relate to each other is a topic of intense interest at cognitive, neural, and theoretical levels of investigation. My research interests are in the mechanisms underlying **perceptual processing and working memory storage of visual, spatial, and verbal information** at the **behavioral**, **computational**, and **neural levels**. Moreover, I am interested in how **abstract semantic knowledge** and **temporal information** are processed and stored in working memory. Currently, I am emploring how hippocampal mechanisms of **spatial navigation** are employed in memory search. I investigate these topics using **behavioral paradigms**, **eye-tracking**, **VR**, **EEG** and **fMRI**. 
 
 ---
+
+![this is a pic](/github_logos2.jpg)
 
 ## 🔗 Quick Navigation
 - [Short Bio](#short-bio)
@@ -193,5 +195,5 @@ Recent Selection:
 
 
 
-![this is a pic](/github_logos2.jpg)
+
 
