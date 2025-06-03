@@ -3,36 +3,24 @@
 
 I am an Assistant Professor in Brain & Cognition at the Erasmus School of Social and Behavioral Sciences, Rotterdam University, Netherlands. My research is funded by the Dutch Research Council (NWO).
 
+## Research Interest
+**Working memory (WM)** and **attention** are two major conceptual pillars of human cognition, and how they relate to each other is a topic of intense interest at cognitive, neural, and theoretical levels of investigation. My research interests are in the mechanisms underlying **perceptual processing and working memory storage of visual, spatial, and verbal information** at the **behavioral**, **computational**, and **neural levels**. Moreover, I am interested in how **abstract semantic knowledge** and **temporal information** are processed and stored in working memory. Currently, I am emploring how hippocampal mechanisms of **spatial navigation** are employed in memory search. I investigate these topics using **behavioral paradigms**, **eye-tracking**, **VR**, **EEG** and **fMRI**. 
+
+---
 
 ## 🔗 Quick Navigation
-
-- [About Me](#about-me)
+- [Short Bio](#short-bio)
 - [Projects](#projects)
 - [Research](#research)
 - [Teaching](#teaching)
-- [Leadership](#leadership)
+- [Leadership](#leadership-in-academia-and-dministrative-responsibilities)
 - [Competences](#competences)
 - [Contact](#contact)
 
----
 
-## 📌 About Me
-Hi! I'm a developer interested in...
+
 
 ---
-
-## 🛠 Projects
-Here are some of my favorite projects...
-
----
-
-## 📬 Contact
-You can reach me via...
-
-
-
-## Research Interest
-**Working memory (WM)** and **attention** are two major conceptual pillars of human cognition, and how they relate to each other is a topic of intense interest at cognitive, neural, and theoretical levels of investigation. My research interests are in the mechanisms underlying **perceptual processing and working memory storage of visual, spatial, and verbal information** at the **behavioral**, **computational**, and **neural levels**. Moreover, I am interested in how **abstract semantic knowledge** and **temporal information** are processed and stored in working memory. Currently, I am emploring how hippocampal mechanisms of **spatial navigation** are employed in memory search. I investigate these topics using **behavioral paradigms**, **eye-tracking**, **VR**, **EEG** and **fMRI**. 
 
 ## Short Bio
 I completed my Ph.D. under the supervision of Prof. **Wim Fias** and Prof. **Tom Verguts** at the department of Experimental Pscyhology, Ghent Universtiy. During my PhD, I addressed the question how attention and working memory interact at the behavioral, neural and computational level. For the computational part, I got interested in modeling (e.g., mixture models) the distribution of attentional resources in WM for which I collaborated with the group of Prof. **Masud Husain** (University of Oxford). As for the neural part, I wanted to lay down the neural bases of attentional prioritisation in working memory using advanced machine learning techniques on fMRI data (e.g., MVPA, RSA, and IEM) for which I conducted a series of experiments as a visiting researcher in prof. **Bradley Postle**'s lab  (University of Wisconsin-Madison).
@@ -58,7 +46,6 @@ Concluded | Ghent University Special Research Fund (BOF) | PhD [*Read more...*](
 
 ## Research
 ### Peer-reviewed articles
-
 
 1.	Schroth, L. S. M., Fias, W., & **Sahan**, M. I. (2025). Eye movements follow the dynamic shifts of attention through serial order in verbal working memory. Scientific Reports, 15(1), 1832. [https://doi.org/10.1038/s41598-024-85015-6](https://doi.org/10.1038/s41598-024-85015-6)
 2.	**Sahan**, M. I., Siugzdaite, R., Mathôt, S., & Fias, W. (2024). Attention-based rehearsal: Eye movements reveal how visuospatial information is maintained in working memory. 	Journal of Experimental Psychology: Learning, Memory, and Cognition, 50(5), 687. [https://dx.doi.org/10.1037/xlm0001291](https://dx.doi.org/10.1037/xlm0001291)
@@ -129,8 +116,6 @@ Together with a group of artists: Laura Zuallaert, Alican Unal and Joline Vermeu
 - **Sahan**, M.I., Verguts, T., Boehler.,N., Pourtois., G., & Fias, W. (2015). Paying attention to working memory: Similarities in the spatial distribution of attention in mental and physical space. *European Society for Cognitive Psychology. Paphos, Cyprus.* (poster)
 - **Sahan**, M.I., Verguts, T., Boehler.,N., Pourtois., G., & Fias, W. (2014). Distributing attention in mental and physical space. *EPOS graduate education network. Amsterdam, Netherlands.* (poster)
 - **Sahan**, M.I., Tibboel, H., & Fias, W. (2014). Working memory effects on temporal attention. *Belgian Association for Psychological Sciences. Leuven, Belgium.* (poster)
-
-
 ---
 
 ## Teaching
@@ -166,7 +151,7 @@ Recent Selection:
 
 ---
 
-## Leadership in Academia and Societal/Administrative Responsibilities
+## Leadership in Academia and Administrative Responsibilities
 - Program coordinator of the Master Brain & Cognition, Department of Education, Psychology and Child Studies, Erasmus University Rotterdam.  Coordinating and organizing interdisciplinary education at the intersection of neuroscience, psychology, and cognitive science (2023 - present) [Read more...](https://www.eur.nl/en/master/brain-and-cognition/why-this-programme)
 - Member of Erasmus Brain Imaging Center Committee.  Representative for fMRI users at Erasmus School of Behavior and Social Science (2025 - present) [Read more...](https://www.eur.nl/en/news/fmri-research-erasmus-university))
 - Member of the eye-tracking support group, Ghent University Training and support of new users, setting up of various documentation (tutorials, scripts, etc.,) (2020 - present) [Read more...](https://sites.google.com/view/ugent-pp02-eps/home/expertise)
