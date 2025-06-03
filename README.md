@@ -133,6 +133,8 @@ Recent Selection:
 
 
 ## Societal and Administrative Responsibilities
+- Program coordinator of the Master Brain & Cognition, Department of Education, Psychology and Child Studies, Erasmus University Rotterdam.  Coordinating and organizing interdisciplinary education at the intersection of neuroscience, psychology, and cognitive science (2023 - present) [Read more...](https://www.eur.nl/en/master/brain-and-cognition/why-this-programme)
+- Member of Erasmus Brain Imaging Center Committee.  Representative for fMRI users at Erasmus School of Behavior and Social Science (2025 - present) [Read more...](https://www.eur.nl/en/news/fmri-research-erasmus-university))
 - Member of the eye-tracking support group, Ghent University Training and support of new users, setting up of various documentation (tutorials, scripts, etc.,) (2020 - present) [Read more...](https://sites.google.com/view/ugent-pp02-eps/home/expertise)
 - Diversity and Inclusion Committee Member, Ghent University  Representing the scientific community (pre-/post-doc alpha sciences) on a statement to progress to a more diverse and inclusive academic environment. (2018 - present) [Read more...](https://www.ugent.be/nl/univgent/waarvoor-staat-ugent/diversiteit-en-inclusie/diversiteitsbeleid/organisatiestructuur/samenstelling-werkgroep-diversiteit-e-ninclusie)
 - Coordinator at the Center for Cognitive Neuroscience (CCN), Ghent University Organizing interdisciplinary talks at the center for cognitive neuroscience in Ghent where invited speakers share their neuroscientific work. (2019 - 2022) [Read more...](https://www.ugent.be/pp/ccn/en). 
