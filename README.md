@@ -151,7 +151,8 @@ Recent Selection:
 	- E-Prime
 	- C (TScope5)
 	- fMRI (SPM, FSL)
-	- eye-tracking (in-lab: Eyelink, online: Webgazer.js)
+	- EEG (eeglab, BVA)   	
+	- eye-tracking (in-lab: Eyelink, Tobii, online: Webgazer.js)
 - Behavioral & eye-tracking data analysis	
   - general linear model (R, lm) 
   - multilevel & mixed models (R, lme4) 
