@@ -10,7 +10,7 @@ I am an Assistant Professor in Brain & Cognition at the Erasmus School of Social
 
 ![this is a pic](/github_logos2.jpg)
 
-## 🔗 Quick Navigation
+## Quick Navigation
 - [Short Bio](#short-bio)
 - [Projects](#projects)
 - [Research](#research)
