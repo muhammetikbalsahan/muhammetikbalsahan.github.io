@@ -21,11 +21,12 @@ Currently I am studying how the brain, especially the hippocampus, supports navi
 --- 
 
 ## Quick Navigation
-- [Projects](#projects)
-- [Research](#research)
-- [Teaching](#teaching)
-- [Leadership](#leadership-in-academia-and-administrative-responsibilities)
+- [My Projects](#projects)
+- [Research Activies](#research)
+- [Teaching Activies](#teaching)
+- [Leadership in Academia](#leadership-in-academia-and-administrative-responsibilities)
 - [Competences](#competences)
+- [Societal Impact](#societal-impact)
 - [Contact](#contact)
 
 
@@ -172,8 +173,8 @@ Recent Selection:
 
 ## Competences
 - Language: Dutch (native), Turkish (native), English (fluent), French (proficient)
-- University Teaching Qualification (UTQ/BKO since 2023)
-- Leadership in Acadamia (since 2024)
+- University Teaching Qualification (UTQ/BKO certificate obtained in 2023)
+- Leadership in Acadamia (certificate obtained in 2024)
 - Experiment Programming
 	- Matlab (PsychToolbox) 
 	- Python (PsychoPy, OpenSesame)
@@ -195,7 +196,9 @@ Recent Selection:
   - connectivity (informational/functional connectivity)
 - Other skills: GIMP, Pavlovia, WebGazer.js, Microsoft Office
 
+---
 
+## Societal Impact
 
 
 
