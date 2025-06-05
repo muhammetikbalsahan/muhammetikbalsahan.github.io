@@ -123,6 +123,9 @@ This is a specialized master’s level course for experimental psychology studen
 
 ### Academic mentoring (*N*>20)
 Recent Selection: 
+- Supervision of a Master thesis: Willem Jacob Louter (2024, 6 months)
+	- MSc in Cognitive Psychology/Psychophysiology, Erasmus University Rotterdam (NL)
+	- Topic: *Do Semantic Effects on Pupillary Responses in Verbal Working Memory Prioritization Extend to Taboo Words?*
 - Supervision of a Master thesis: Conor Durkin (2022, 4 months)
 	- MSc in Cognitive Psychology/Psychophysiology, University of Groningen (NL)
 	- Topic: *The pupillary light response reveals the content of the attended item in verbal working memory* 	
