@@ -17,12 +17,8 @@ Currently I am studying how the brain, especially the hippocampus, supports navi
 --- 
 
 ## Quick Navigation
-- [My Projects](#projects)
-- [Research Activies](#research)
-- [Teaching Activies](#teaching)
-- [Leadership in Academia](#leadership-in-academia-and-administrative-responsibilities)
-- [Competences](#competences)
-- [Societal Impact](#societal-impact)
+[My Projects](#projects) | [Research Activies](#research) | [Teaching Activies](#teaching)
+[Leadership in Academia](#leadership-in-academia-and-administrative-responsibilities)| [Competences](#competences)| [Societal Impact](#societal-impact)
 - [Contact](#contact)
 
 
