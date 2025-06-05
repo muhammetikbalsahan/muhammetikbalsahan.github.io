@@ -211,6 +211,6 @@ Media appearance:
 - **"Students play around with gel and stick electrodes on each other during Electrophysiology practical”**  Erasmus Magazine
 [Read more...](https://www.erasmusmagazine.nl/en/2023/10/10/students-play-around-with-gel-and-stick-electrodes-on-each-other-during-electrophysiology-practical/?noredirect=en_US)
 - **"Muhammet Sahan researches attention and memory in the brain”**  Spark Magazine
-[Read more...](https://weekendvandewetenschap.nl/activiteiten/2024/ogen-van-spiegel-van-de-ziel/)
+[Read more...](https://www.eur.nl/en/essb/news/muhammet-sahan-researches-attention-and-memory-brain)
 - **"Met dit apparaat kan je gedachten lezen..”**  Wijsneuzen
-[Read more...](https://weekendvandewetenschap.nl/activiteiten/2024/ogen-van-spiegel-van-de-ziel/)
+[Read more...](https://www.youtube.com/watch?v=DYvG0clB7ps&list=PLlCJT0x1pzDgqdWAQ3-RTji1wMZAuYoaB&index=143)
