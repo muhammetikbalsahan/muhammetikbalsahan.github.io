@@ -200,7 +200,7 @@ Recent Selection:
 
 ## Societal Impact
 Recent Activities: 
-1. **Ogen als spiegel van de ziel” workshops in de Weekend van de Wetenschap** | **2024,2025** | 
-[Read more...](https://weekendvandewetenschap.nl/activiteiten/2024/ogen-van-spiegel-van-de-ziel/)
+1. **"Ogen als spiegel van de ziel”**  eye-tracking workshops in de Weekend van de Wetenschap | **2024,2025** | 
+[Read more...](https://weekendvandewetenschap.nl/activiteiten/2024/ogen-van-spiegel-van-de-ziel/)(https://weekendvandewetenschap.nl/activiteiten/2024/ogen-van-spiegel-van-de-ziel/)
 
 
