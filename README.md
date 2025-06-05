@@ -83,7 +83,7 @@ Presented a talk titled *“What are the neural consequences of attentional prio
 1. **Best Poster Award at the “Searching for the WM engram” conference held in Groningen.** | **May 2022** | 
 Award in recognition to the poster titled: *“Attention-based rehearsal: Patterns of eye movements reveal how visuospatial information is maintained in short-term memory.”* [Read more...](https://www.wmengram.com/)
 2. **Stad Gent artistic grant to create an artistic translation of our scientific work (€4.000,00).** | **September 2021** |
-Together with a group of artists: Laura Zuallaert, Alican Unal and Joline Vermeulen, I am preparing an art performance based on our recent eye-tracking work titled *“The anatomy of the gaze”.* Our partners are GUM (Ghent University Museum), dr. Guislain Museum and Stad Gent. 
+Together with a group of artists: Laura Zuallaert, Alican Unal and Joline Vermeulen, I exhibited an artistic expression of my recent eye-tracking work titled *“The anatomy of the gaze”.* Our partners are GUM (Ghent University Museum), dr. Guislain Museum and Stad Gent. [Read more...](https://www.linkedin.com/posts/muhammet-ikbal-sahan-a60516118_the-anatomy-of-the-gaze-is-an-artistic-educational-activity-7165733647755427840-hmD-?utm_source=share&utm_medium=member_desktop&rcm=ACoAAB1Du2gBk3_EIrRE-hUzaI2ZY9kj2cVRy1g) 
 
 ### Ongoing collaborations
 1.	Collaborator: prof. dr. Sebastiaan Mathôt, Department of Experimental Psychology, University of Groningen, the Netherlands. Tracking the mind's eye using pupillometry in order to reveal the role of visuospatial processes in verbal working memory.
