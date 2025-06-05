@@ -3,10 +3,6 @@
 
 I am an Assistant Professor in Brain & Cognition at the Erasmus School of Social and Behavioral Sciences, Rotterdam University, Netherlands. My research is funded by the Dutch Research Council (NWO).
 
-[My Projects](#projects) | [Research Activies](#research) | [Teaching Activies](#teaching)
-[Leadership in Academia](#leadership-in-academia-and-administrative-responsibilities)| [Competences](#competences)| [Societal Impact](#societal-impact) | [Contact](#contact)
-
-
 ## Research Interests
 **Working memory (WM)** and **attention** are two major conceptual pillars of human cognition, and how they relate to each other is a topic of intense interest at cognitive, neural, and theoretical levels of investigation. My research interests are in the mechanisms underlying **perceptual processing and working memory storage of visual, spatial, and verbal information** at the **behavioral**, **computational**, and **neural levels**. Moreover, I am interested in how **abstract semantic knowledge** and **temporal information** are processed and stored in working memory. Currently, I am emploring how hippocampal mechanisms of **spatial navigation** are employed in memory search. I investigate these topics using **behavioral paradigms**, **eye-tracking**, **VR**, **EEG** and **fMRI**. 
 
@@ -17,11 +13,12 @@ Following up on my PhD, I continued working with Prof. **Wim Fias** to investiga
 
 Currently I am studying how the brain, especially the hippocampus, supports navigation in physical and mental space using VR-based navigation. I explore how digital tools like GPS impact spatial skills—do they weaken the hippocampus or promote adaptation via other brain regions? Children and older adults offer key insights into plasticity and decline.
 
-
-
-
 ---
 
+🚀 🧠 [My Projects](#projects) | [Research Activies](#research) | [Teaching Activies](#teaching)
+[Leadership in Academia](#leadership-in-academia-and-administrative-responsibilities)| [Competences](#competences)| [Societal Impact](#societal-impact) | [Contact](#contact)
+
+---
 
 
 ## Projects
