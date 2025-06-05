@@ -200,16 +200,16 @@ Recent Selection:
 
 ## Societal Impact
 Selection of Recent Activities: 
-1. **"The Anatomy of Vision”**  interactive VR-Eyetracking exhibition at the Natuurhistorisch Museum Rotterdam | **2025** | 
+- **"The Anatomy of Vision”**  interactive VR-Eyetracking exhibition at the Natuurhistorisch Museum Rotterdam | **2025** | 
 [Read more...](https://weekendvandewetenschap.nl/activiteiten/2024/ogen-van-spiegel-van-de-ziel/)
-2. **"De anatomie van de blik”**  interactive visual brain exhibition at the Guislain Museum Gent | **2023** | 
+- **"De anatomie van de blik”**  interactive visual brain exhibition at the Guislain Museum Gent | **2023** | 
 [Read more...](https://weekendvandewetenschap.nl/activiteiten/2024/ogen-van-spiegel-van-de-ziel/)
-3. **"Ogen als spiegel van de ziel”**  eye-tracking workshops in de Weekend van de Wetenschap | **2024,2025** | 
+- **"Ogen als spiegel van de ziel”**  eye-tracking workshops in de Weekend van de Wetenschap | **2024,2025** | 
 [Read more...](https://weekendvandewetenschap.nl/activiteiten/2024/ogen-van-spiegel-van-de-ziel/)
 
 Media appearance:
 - **"Students play around with gel and stick electrodes on each other during Electrophysiology practical”**  Erasmus Magazine
-[Read more...](https://weekendvandewetenschap.nl/activiteiten/2024/ogen-van-spiegel-van-de-ziel/)
+[Read more...](https://www.erasmusmagazine.nl/en/2023/10/10/students-play-around-with-gel-and-stick-electrodes-on-each-other-during-electrophysiology-practical/?noredirect=en_US)
 - **"Muhammet Sahan researches attention and memory in the brain”**  Spark Magazine
 [Read more...](https://weekendvandewetenschap.nl/activiteiten/2024/ogen-van-spiegel-van-de-ziel/)
 - **"Met dit apparaat kan je gedachten lezen..”**  Wijsneuzen
