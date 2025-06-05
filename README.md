@@ -13,10 +13,6 @@ Following up on my PhD, I continued working with Prof. **Wim Fias** to investiga
 
 Currently I am studying how the brain, especially the hippocampus, supports navigation in physical and mental space using VR-based navigation. I explore how digital tools like GPS impact spatial skills—do they weaken the hippocampus or promote adaptation via other brain regions? Children and older adults offer key insights into plasticity and decline.
 
----
-
-
-![this is a pic](/github_logos2.jpg)
 
 --- 
 
@@ -214,3 +210,9 @@ Media appearance:
 [Read more...](https://www.eur.nl/en/essb/news/muhammet-sahan-researches-attention-and-memory-brain)
 - **"Met dit apparaat kan je gedachten lezen..”**  Wijsneuzen
 [Read more...](https://www.youtube.com/watch?v=DYvG0clB7ps&list=PLlCJT0x1pzDgqdWAQ3-RTji1wMZAuYoaB&index=143)
+
+---
+
+
+![this is a pic](/github_logos2.jpg)
+
