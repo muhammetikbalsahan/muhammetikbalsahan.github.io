@@ -188,19 +188,19 @@ Recent Selection:
 
 ## Societal Impact
 Selection of Recent Activities: 
-- **"The Anatomy of Vision”**  interactive VR-Eyetracking exhibition at the Natuurhistorisch Museum Rotterdam | **2025** | 
+- *"The Anatomy of Vision”*  interactive VR-Eyetracking exhibition at the **Natuurhistorisch Museum Rotterdam** | **2025** | 
 [Read more...](http://hetnatuurhistorisch.nl/bezoek/activiteiten/geweest/activiteit/ontdek-je-eigen-brein-tijdens-de-brain-awareness-week/)
-- **"De anatomie van de blik”**  interactive visual brain exhibition at the Guislain Museum Gent | **2023** | 
+- *"De anatomie van de blik”*  interactive visual brain exhibition at the **Guislain Museum Gent** | **2023** | 
 [Read more...](https://www.linkedin.com/posts/muhammet-ikbal-sahan-a60516118_the-anatomy-of-the-gaze-is-an-artistic-educational-activity-7165733647755427840-hmD-?utm_source=share&utm_medium=member_desktop&rcm=ACoAAB1Du2gBk3_EIrRE-hUzaI2ZY9kj2cVRy1g)
-- **"Ogen als spiegel van de ziel”**  eye-tracking workshops in de Weekend van de Wetenschap | **2024,2025** | 
+- *"Ogen als spiegel van de ziel”*  eye-tracking workshops in de **Weekend van de Wetenschap** | **2024,2025** | 
 [Read more...](https://weekendvandewetenschap.nl/activiteiten/2024/ogen-van-spiegel-van-de-ziel/)
 
 Media appearance:
-- **"Students play around with gel and stick electrodes on each other during Electrophysiology practical”**  Erasmus Magazine
+- *"Students play around with gel and stick electrodes on each other during Electrophysiology practical”*  **Erasmus Magazine**
 [Read more...](https://www.erasmusmagazine.nl/en/2023/10/10/students-play-around-with-gel-and-stick-electrodes-on-each-other-during-electrophysiology-practical/?noredirect=en_US)
-- **"Muhammet Sahan researches attention and memory in the brain”**  Spark Magazine
+- *"Muhammet Sahan researches attention and memory in the brain”*  **Spark Magazine**
 [Read more...](https://www.eur.nl/en/essb/news/muhammet-sahan-researches-attention-and-memory-brain)
-- **"Met dit apparaat kan je gedachten lezen..”**  Wijsneuzen
+- *"Met dit apparaat kan je gedachten lezen..”*  **Wijsneuzen**
 [Read more...](https://www.youtube.com/watch?v=DYvG0clB7ps&list=PLlCJT0x1pzDgqdWAQ3-RTji1wMZAuYoaB&index=143)
 
 ---
