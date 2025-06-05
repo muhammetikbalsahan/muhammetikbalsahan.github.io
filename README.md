@@ -213,6 +213,10 @@ Media appearance:
 
 ---
 
+## Contact
+sahan@essb.eur.nl
+
+---
 
 ![this is a pic](/github_logos2.jpg)
 
