@@ -199,7 +199,7 @@ Selection of Recent Activities:
 - **"The Anatomy of Vision”**  interactive VR-Eyetracking exhibition at the Natuurhistorisch Museum Rotterdam | **2025** | 
 [Read more...](http://hetnatuurhistorisch.nl/bezoek/activiteiten/geweest/activiteit/ontdek-je-eigen-brein-tijdens-de-brain-awareness-week/)
 - **"De anatomie van de blik”**  interactive visual brain exhibition at the Guislain Museum Gent | **2023** | 
-[Read more...](https://weekendvandewetenschap.nl/activiteiten/2024/ogen-van-spiegel-van-de-ziel/)
+[Read more...](https://www.linkedin.com/posts/muhammet-ikbal-sahan-a60516118_the-anatomy-of-the-gaze-is-an-artistic-educational-activity-7165733647755427840-hmD-?utm_source=share&utm_medium=member_desktop&rcm=ACoAAB1Du2gBk3_EIrRE-hUzaI2ZY9kj2cVRy1g)
 - **"Ogen als spiegel van de ziel”**  eye-tracking workshops in de Weekend van de Wetenschap | **2024,2025** | 
 [Read more...](https://weekendvandewetenschap.nl/activiteiten/2024/ogen-van-spiegel-van-de-ziel/)
 
